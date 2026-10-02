@@ -1,0 +1,10 @@
+excluded_method_family,N,DIRECT,NON_DIRECT,UTILITY,REPRESENTATION,ROBUSTNESS_GENERALIZATION,CAUSAL_PROCESS,REASONING_EVIDENCE,ACTION_DEPLOYMENT,all_six_non_direct_classes_present
+benchmark_empirical,83,42,41,6,3,12,4,6,10,YES
+causal,80,42,38,6,2,11,2,8,9,YES
+deep_learning,88,45,43,7,3,10,5,8,10,YES
+graph,80,38,42,6,3,11,5,8,9,YES
+hybrid,90,47,43,7,3,9,5,8,11,YES
+llm_agent,80,44,36,7,3,11,5,3,7,YES
+log_diagnosis,88,45,43,6,3,11,4,8,11,YES
+multimodal,77,39,38,4,1,10,5,7,11,YES
+statistical,78,34,44,7,3,11,5,8,10,YES
